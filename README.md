@@ -2,6 +2,7 @@
 
 This is an application of deep fully connected neural network for German traffic sign recognition. 
 This is a part of the overall pipeline of traffic sign recoginition. 
+
 Steps: 
   Give region of interest of traffic signs in images(Roi.x1, Roi.x2, Roi.y1, Roi.y2) 
   1. reshape the roi into 32 by 32 images 
