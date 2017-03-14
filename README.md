@@ -8,6 +8,8 @@ Steps:
   1. reshape the roi into 32 by 32 images 
   2. vectorize the image matrix 
   3. Build the neural network and train the data 
- 
+
+The python file can be put into "..\GTSRB_Final_Training_Images\GTSRB\Final_Training\Images" folder. 
+
 The train accuracy reaches 99%, test accuracy reaches 96.5%  
 Data source: http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset
